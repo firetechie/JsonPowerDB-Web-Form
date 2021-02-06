@@ -10,11 +10,11 @@ Easy and fast to develop database applications without using any server side pro
 Release History : https://github.com/firetechie/JsonPowerDB-Web-Form.git
 
 Screenshots :
-![Dashboard](https://github.com/firetechie/JsonPowerDB-Web-Form/blob/master/Dashboard.PNG)
+![Dashboard](https://github.com/firetechie/JsonPowerDB-Web-Form/blob/master/Screenshots/Dashboard.PNG)
 
-![Request Page](https://github.com/firetechie/JsonPowerDB-Web-Form/blob/master/Request.PNG)
+![Request Page](https://github.com/firetechie/JsonPowerDB-Web-Form/blob/master/Screenshots/Request.PNG)
 
-![Visualize](https://github.com/firetechie/JsonPowerDB-Web-Form/blob/master/Server.PNG)
+![Visualize](https://github.com/firetechie/JsonPowerDB-Web-Form/blob/master/Screenshots/Server.PNG)
 
-![Web Form](https://github.com/firetechie/JsonPowerDB-Web-Form/blob/master/Web%20Form.PNG)
+![Web Form](https://github.com/firetechie/JsonPowerDB-Web-Form/blob/master/Screenshots/Web%20Form.PNG)
 
